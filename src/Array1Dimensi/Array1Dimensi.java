@@ -9,5 +9,7 @@ package Array1Dimensi;
  * @author alfizainulhaq
  */
 public class Array1Dimensi {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
 }
